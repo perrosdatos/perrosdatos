@@ -1,4 +1,4 @@
-# 🚀 Juan Carlos González Aguilar - Lead Data Scientist & AI developer  
+# 🚀 Juan Carlos González - Lead Data Scientist & AI developer  
 ![GitHub followers](https://img.shields.io/github/followers/perrosdatos?style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/perrosdatos?style=social)  
 
@@ -7,6 +7,19 @@ I am a **Lead Data Scientist** with over 8 years of experience in **machine lear
 
 ### 🎮 Fun Fact  
 I also enjoy gaming! You can find me on Fortnite under the username **dataperromx** 🕹️.  
+
+---
+
+## 🎤 Workshops & Presentations  
+
+I am passionate about **sharing knowledge and mentoring others** in the fields of data science, machine learning, and AI. Below are some of the key **talks and workshops** I have led:
+
+| Event | Topic | Location | Year | Links |
+|-------------|-------------|-------------|------|------------|
+| **SG Data Day 2022** | **Archivos de la Represión & AI for Social Good** | Mexico City, Mexico | 2022 | [Talk Details](https://sg.com.mx/dataday/sessions/2022/b5/) |
+| **RIIA Hackathon** | **Machine Learning for Historical Archives** | Virtual | 2021 | [YouTube](https://www.youtube.com/watch?v=lY4FXun04Uc) |
+| **Introduction to Data Science with Spark** | **Hands-on Workshop on Apache Spark** | Mexico City, Mexico | 2018 | [GitHub Repo](https://github.com/perrosdatos/fast_introduction_to_spark) |
+| **RIIA Workshop** | **AI Applications in Historical Analysis** | Mexico City, Mexico | 2022 | [PDF](https://github.com/perrosdatos/docs/presentation_archivos_represion_riia.pdf) |
 
 ---
 
@@ -29,6 +42,8 @@ Data is at the core of my work. Here are some projects focused on **data pipelin
 
 | Project Name | Description | Technologies | Year | Repository |
 |-------------|-------------|-------------|------|------------|
+| **LinkedIn Web Scraping** | Automated **data extraction from LinkedIn** using **Selenium** to gather job listings and profile insights. | Python, Selenium, Web Scraping | 2017 | [GitHub Repo](https://github.com/perrosdatos/web_scraping_linkedin) |
+
 <!--| **Real-Time Data Pipelines** | Built scalable **ETL processes** for high-frequency financial transactions. | AWS, Kafka, Spark, SQL | 2024 | *Coming Soon* |
 | **Large-Scale Data Storage Optimization** | Improved **database performance** for handling billions of records. | PostgreSQL, Redis, AWS Timestream | 2023 | *Coming Soon* |
 -->
@@ -83,9 +98,12 @@ Interested in collaborating? Feel free to:
 ---
 
 ## 📫 Contact  
-📌 **LinkedIn**: [juancarlosgonzalezaguilar](https://linkedin.com/in/juancarlosgonzalezaguilar)  
+📌 **LinkedIn**: [juancarlosgonzalezaguilar](https://linkedin.com/in/juancarlosgonzaguilar)  
 📌 **GitHub**: [perrosdatos](https://github.com/perrosdatos)  
-📌 **Email**: carlosgonzagular@email.com  
+📌 **Email**: [carlosgonzagular@email.com](mailto:carlosgonzagular@email.com?subject=Collaboration%20Inquiry&body=Hello%20Juan%2C%0D%0A%0D%0AI%20am%20interested%20in%20collaborating%20with%20you%20on%20a%20project.%20Please%20let%20me%20know%20if%20you%20are%20available%20to%20discuss.%0D%0A%0D%0ARegards,)
+📌 **Discord**: `@dataperromx`  
+
+
 
 ---
 
