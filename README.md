@@ -52,8 +52,11 @@ Data is at the core of my work. Here are some projects focused on **data pipelin
 ### 🤖 **Machine Learning & AI**  
 Building intelligent systems is a core part of my work.
 
-| Project Name | Description | Technologies | Year | Repository |
-|-------------|-------------|-------------|------|------------|
+| Project Name       | Description                                                                                                                                         | Technologies                                   | Year | Repository                                                        |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|------|-------------------------------------------------------------------|
+| MSC_AI_KW_Project  | A team-based project that leverages metaheuristic algorithms and semantic data integration (YAGO & Wikidata) to optimize personalized music recommendations. | Python, SPARQL, Flask, JavaScript, Metaheuristic Algorithms | 2025 | [GitHub Repo](https://github.com/perrosdatos/msc_ai_kw_project) |
+
+
 <!--| **Customer Churn Prediction** | Developed predictive models to reduce churn in financial services. | Python, XGBoost, Scikit-learn | 2024 | *Coming Soon* |
 | **Graph-Based Customer Segmentation** | Applied **graph inference techniques** for customer profiling. | NetworkX, Scikit-learn | 2023 | *Coming Soon* |
 -->
@@ -62,8 +65,10 @@ Building intelligent systems is a core part of my work.
 ### 🧬 **Genetic Algorithms & Optimization**  
 I have worked on **metaheuristic algorithms** to solve complex optimization problems.
 
-| Project Name | Description | Technologies | Year | Repository |
-|-------------|-------------|-------------|------|------------|
+| Project Name       | Description                                                                                                              | Technologies                                               | Year | Repository                                                        |
+|--------------------|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|------|-------------------------------------------------------------------|
+| MSC_AI_Assigment   | Evolutionary Algorithm for the Travelling Salesman Problem (TSP) using GA and B&B.        | Python, Genetic Algorithms, Branch and Bound, Jupyter Notebooks, LaTeX | 2024 | [GitHub Repo](https://github.com/perrosdatos/msc_ai_assigment) |
+
 <!--| **Genetic Algorithm for Scheduling** | Used **evolutionary computation** to optimize workforce scheduling. | Python, DEAP, NumPy | 2022 | *Coming Soon* |
 | **Hyperparameter Tuning with GA** | Optimized ML models using genetic algorithms. | Python, Scikit-learn, DEAP | 2021 | *Coming Soon* |
 -->
@@ -74,6 +79,8 @@ I explore **autonomous decision-making models** and **large language models**.
 
 | Project Name | Description | Technologies | Year | Repository |
 |-------------|-------------|-------------|------|------------|
+| reinforcement_learning_examples | A demonstration of a Deep Q-Network (DQN) implementation using Keras for reinforcement learning. It features a custom training loop with target network updates, reward computation, and grid-based environment simulations for autonomous decision-making. | Python, TensorFlow, Keras, NumPy, scikit-learn, matplotlib | 2018 | [GitHub Repo](https://github.com/perrosdatos/reinforcement_learning_examples) |
+
 <!--
 | **RL for Energy Optimization** | Applied **Deep Q-Learning** to optimize energy grid usage. | TensorFlow, RLlib | 2023 | *Coming Soon* |
 | **Custom LLM for Financial Analysis** | Developed a domain-specific **large language model** for financial insights. | Python, Hugging Face, PyTorch | 2024 | *Coming Soon* |
@@ -81,11 +88,15 @@ I explore **autonomous decision-making models** and **large language models**.
 ---
 
 ## 🛠️ Tech Stack  
-🔹 **Programming Languages**: Python, Scala, SQL  
-🔹 **Machine Learning**: TensorFlow, PyTorch, Scikit-learn, XGBoost  
-🔹 **Data Engineering**: Apache Spark, Kafka, AWS Glue, Redis, Timestream  
-🔹 **Visualization**: Google Data Studio, Amazon QuickSight, Qlik  
-🔹 **DevOps & Cloud**: AWS, Docker,  
+🔹 **Programming Languages:** Python, Scala, SQL, R  
+🔹 **Scripting & Markup:** LaTeX, Markdown  
+🔹 **Deep Learning & AI:** TensorFlow, Keras, PyTorch, YOLOv5, Tesseract, Scikit-learn, XGBoost  
+🔹 **Metaheuristic Algorithms:** Genetic Algorithms, Branch and Bound  
+🔹 **Data Engineering & Big Data:** PySpark, GraphX, Kafka, AWS Glue, Redis, Timestream  
+🔹 **Data Analysis & Notebooks:** Jupyter Notebooks, Pandas  
+🔹 **Visualization:** Google Data Studio, Amazon QuickSight, Qlik  
+🔹 **DevOps & Cloud:** AWS, Docker, Git
+
 
 ---
 
@@ -100,7 +111,7 @@ Interested in collaborating? Feel free to:
 ## 📫 Contact  
 📌 **LinkedIn**: [juancarlosgonzalezaguilar](https://linkedin.com/in/juancarlosgonzaguilar)  
 📌 **GitHub**: [perrosdatos](https://github.com/perrosdatos)  
-📌 **Email**: [carlosgonzagular@email.com](mailto:carlosgonzagular@email.com?subject=Collaboration%20Inquiry&body=Hello%20Juan%2C%0D%0A%0D%0AI%20am%20interested%20in%20collaborating%20with%20you%20on%20a%20project.%20Please%20let%20me%20know%20if%20you%20are%20available%20to%20discuss.%0D%0A%0D%0ARegards,)
+📌 **Email**: [carlosgonzagular@email.com](mailto:carlosgonzagular@email.com?subject=Collaboration%20Inquiry&body=Hello%20Juan%2C%0D%0A%0D%0AI%20am%20interested%20in%20collaborating%20with%20you%20on%20a%20project.%20Please%20let%20me%20know%20if%20you%20are%20available%20to%20discuss.%0D%0A%0D%0ARegards,) <br/>
 📌 **Discord**: `@dataperromx`  
 
 
