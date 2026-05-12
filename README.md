@@ -3,7 +3,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/perrosdatos?style=social)  
 
 ## 👋 About Me  
-I am a **Lead Data Scientist** with over 8 years of experience in **machine learning, reinforcement learning, data engineering, and AI applications**. My work spans various industries, including **banking, energy, and government research projects**. I specialize in **algorithm optimization, large-scale data analysis, and AI-driven decision-making**.  
+I am an **Applied AI Lead & Data Scientist** with over 8 years of experience in **machine learning, deep learning, NLP, data engineering, and AI applications**. My work spans various industries, including **financial services, banking, and government research projects**. I specialize in **end-to-end model deployment, building AI-powered solutions, algorithm optimization, and AI-driven decision-making**.  
 
 ### 🎮 Fun Fact  
 I also enjoy gaming! You can find me on Fortnite under the username **dataperromx** 🕹️.  
@@ -75,10 +75,11 @@ I have worked on **metaheuristic algorithms** to solve complex optimization prob
 ---
 
 ### 🎮 **Reinforcement Learning & LLMs**  
-I explore **autonomous decision-making models** and **large language models**.
+I explore **autonomous decision-making models** and **large language models**, focusing on applied AI and deep learning solutions.
 
 | Project Name | Description | Technologies | Year | Repository |
 |-------------|-------------|-------------|------|------------|
+| **Lux AI S3 MARL (Pair Programming)** | Applied AI thesis project focused on scaling Multi-Agent Reinforcement Learning (MARL) algorithms. We created a custom fork of Meta's **BenchMARL** library, successfully adapting it for the complex **Lux AI S3** environment. This collaborative pair programming effort with [@hosseinghzadeh](https://github.com/hosseinghzadeh) involved end-to-end model development, training models using **MAPPO, QMIX, and MASAC**, implementing **reward shaping** techniques, and developing a custom **JAX wrapper** to significantly improve execution speed and training efficiency. <br><br>📊 [View W&B Training Metrics](https://wandb.ai/datadogmx/Lux_Thesis_16CH_v2_BiggerCNN_6M) | Python, PyTorch, JAX, Deep Learning, Multi-Agent RL, Meta's BenchMARL, Weights & Biases, MLOps | 2026 | [Thesis Experiments](https://github.com/perrosdatos/msc_ai_thesis_experiments) <br><br> [BenchMARL Fork](https://github.com/perrosdatos/BenchMARL) |
 | reinforcement_learning_examples | A demonstration of a Deep Q-Network (DQN) implementation using Keras for reinforcement learning. It features a custom training loop with target network updates, reward computation, and grid-based environment simulations for autonomous decision-making. | Python, TensorFlow, Keras, NumPy, scikit-learn, matplotlib | 2018 | [GitHub Repo](https://github.com/perrosdatos/reinforcement_learning_examples) |
 
 <!--
@@ -88,14 +89,15 @@ I explore **autonomous decision-making models** and **large language models**.
 ---
 
 ## 🛠️ Tech Stack  
-🔹 **Programming Languages:** Python, Scala, SQL, R  
+🔹 **Programming Languages:** Python, SQL, Scala, R  
+🔹 **Deep Learning & Applied AI:** PyTorch, TensorFlow, Keras, LLMs, NLP, YOLOv5, Tesseract  
+🔹 **Machine Learning:** Scikit-learn, XGBoost, Model Deployment, MLOps  
 🔹 **Scripting & Markup:** LaTeX, Markdown  
-🔹 **Deep Learning & AI:** TensorFlow, Keras, PyTorch, YOLOv5, Tesseract, Scikit-learn, XGBoost  
 🔹 **Metaheuristic Algorithms:** Genetic Algorithms, Branch and Bound  
 🔹 **Data Engineering & Big Data:** PySpark, GraphX, Kafka, AWS Glue, Redis, Timestream  
 🔹 **Data Analysis & Notebooks:** Jupyter Notebooks, Pandas  
-🔹 **Visualization:** Google Data Studio, Amazon QuickSight, Qlik  
-🔹 **DevOps & Cloud:** AWS, Docker, Git
+🔹 **Visualization:** Google Data Studio, Amazon QuickSight, Qlik, Weights & Biases  
+🔹 **DevOps & Cloud:** AWS, Docker, Git, CI/CD
 
 
 ---
